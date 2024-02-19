@@ -30,7 +30,7 @@
       <nav class="navbar navbar-expand-lg navbar-light py-3 border-bottom border-gray bg-white">
         <div class="container d-flex align-items-center justify-content-between">
           <h5 class="text-uppercase lined lined-center">Docteur
-             <span class="text-primary"> </span></h5>  
+             <span class="text-primary"> KAWTAR CHATTI </span></h5>  
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <ul class="list-inline mb-0 d-none d-lg-block">
             <li class="list-inline-item me-3">
@@ -44,7 +44,7 @@
             <li class="list-inline-item">
               <div class="d-flex"><i class="fas fa-phone text-muted"></i>
                 <div class="ms-2">
-                  <h6 class="text-muted text-uppercase mb-0 text-sm"></h6>
+                  <h6 class="text-muted text-uppercase mb-0 text-sm">05-37-52-08-67</h6>
                   <p class="small text-gray mb-0">Telephone</p>
                 </div>
               </div>
